@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0ec3899c6263faa0b7615094b6545fa5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1d59f09e3c18df9b05f7eb74c6c133a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\827fbdf71b323f61eb6a25e72eb6de67\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\9d882a40aa4bac2415926bbf6b97595b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ab33c56211058f869e8c3188be7cfecb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\f206a27dc056cb5b4ac93aa55b3b68db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\b319f928bef08c996002fa86944149e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c69b449cf0ae9534eddc21cbc6f7315a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c6797c2b174cfb7895e1bffa85c7915c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\01cdc018b5f3d05d59adece66387e566\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1d41a25427b806bf331207946578ac18\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6204de3f2b22571b1d3177783c35c185\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\37c887f36f0305fa2b94beba0803825a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ec44d9b809f0a4d56d0472baf4b2ad77\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6817e58342e3854a8aa9cc96500fc257\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\58ef46a9212178357dd9e60a8249ca2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\3b98ae12b4ec1afdd30392a075411725\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ddf9e12d11716dd1b8ef74f2605dd957\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c868771205fd3ed974a0dc9c3bcf8ff2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\b0b7d216ccd3cc28c0d79f7478cc8d20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1bdef90b0d829bec4c69acd78c82cf08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\d3bd8d2cb950db12c8a49004b6942d8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\5f24f8ebc44029ec852bc8543075f28b\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\669b9ea29fb7951f53a59cd4d172adf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\52bce03c7ca335880eaeb441aa2feb5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6453816827f4658545ff1d65c65f116e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\3ee91b69f1a107113d33e0d5b3711224\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\d40b0d7278d5d0f866756f4559ffd143\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\59006a66599ff49a14f2f79b1244f3bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c3b74a48244f38fc895e2cb20843409b\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1502a3e92775602216b7f43ba7c0fb58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0b1472893777d013305a30dd2faba583\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\46c05a3a6f39ae4749e067cdc9507aba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\19f357b881a78189d4df5a0a1fbc725f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0ec3899c6263faa0b7615094b6545fa5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0ec3899c6263faa0b7615094b6545fa5\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\827fbdf71b323f61eb6a25e72eb6de67\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\827fbdf71b323f61eb6a25e72eb6de67\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\5f24f8ebc44029ec852bc8543075f28b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\5f24f8ebc44029ec852bc8543075f28b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c3b74a48244f38fc895e2cb20843409b\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c3b74a48244f38fc895e2cb20843409b\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\5f24f8ebc44029ec852bc8543075f28b\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.praveen.movieupdates.activities.MovieActivity
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:14:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:17:27-74
+receiver#com.example.praveen.movieupdates.model.NetworkChangeReceiver
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:20:9-25:20
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:20:19-62
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:21:9-24:25
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:22:13-75
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:22:21-72
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:23:13-74
+	android:name
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml:23:21-71
+uses-sdk
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0ec3899c6263faa0b7615094b6545fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0ec3899c6263faa0b7615094b6545fa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1d59f09e3c18df9b05f7eb74c6c133a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1d59f09e3c18df9b05f7eb74c6c133a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\827fbdf71b323f61eb6a25e72eb6de67\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\827fbdf71b323f61eb6a25e72eb6de67\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\9d882a40aa4bac2415926bbf6b97595b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\9d882a40aa4bac2415926bbf6b97595b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ab33c56211058f869e8c3188be7cfecb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ab33c56211058f869e8c3188be7cfecb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\f206a27dc056cb5b4ac93aa55b3b68db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\f206a27dc056cb5b4ac93aa55b3b68db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\b319f928bef08c996002fa86944149e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\b319f928bef08c996002fa86944149e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c69b449cf0ae9534eddc21cbc6f7315a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c69b449cf0ae9534eddc21cbc6f7315a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c6797c2b174cfb7895e1bffa85c7915c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c6797c2b174cfb7895e1bffa85c7915c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\01cdc018b5f3d05d59adece66387e566\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\01cdc018b5f3d05d59adece66387e566\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1d41a25427b806bf331207946578ac18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1d41a25427b806bf331207946578ac18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6204de3f2b22571b1d3177783c35c185\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6204de3f2b22571b1d3177783c35c185\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\37c887f36f0305fa2b94beba0803825a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\37c887f36f0305fa2b94beba0803825a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ec44d9b809f0a4d56d0472baf4b2ad77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ec44d9b809f0a4d56d0472baf4b2ad77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6817e58342e3854a8aa9cc96500fc257\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6817e58342e3854a8aa9cc96500fc257\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\58ef46a9212178357dd9e60a8249ca2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\58ef46a9212178357dd9e60a8249ca2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\3b98ae12b4ec1afdd30392a075411725\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\3b98ae12b4ec1afdd30392a075411725\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ddf9e12d11716dd1b8ef74f2605dd957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\ddf9e12d11716dd1b8ef74f2605dd957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c868771205fd3ed974a0dc9c3bcf8ff2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c868771205fd3ed974a0dc9c3bcf8ff2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\b0b7d216ccd3cc28c0d79f7478cc8d20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\b0b7d216ccd3cc28c0d79f7478cc8d20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1bdef90b0d829bec4c69acd78c82cf08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1bdef90b0d829bec4c69acd78c82cf08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\d3bd8d2cb950db12c8a49004b6942d8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\d3bd8d2cb950db12c8a49004b6942d8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\5f24f8ebc44029ec852bc8543075f28b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\5f24f8ebc44029ec852bc8543075f28b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\669b9ea29fb7951f53a59cd4d172adf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\669b9ea29fb7951f53a59cd4d172adf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\52bce03c7ca335880eaeb441aa2feb5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\52bce03c7ca335880eaeb441aa2feb5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6453816827f4658545ff1d65c65f116e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\6453816827f4658545ff1d65c65f116e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\3ee91b69f1a107113d33e0d5b3711224\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\3ee91b69f1a107113d33e0d5b3711224\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\d40b0d7278d5d0f866756f4559ffd143\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\d40b0d7278d5d0f866756f4559ffd143\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\59006a66599ff49a14f2f79b1244f3bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\59006a66599ff49a14f2f79b1244f3bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c3b74a48244f38fc895e2cb20843409b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\c3b74a48244f38fc895e2cb20843409b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1502a3e92775602216b7f43ba7c0fb58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\1502a3e92775602216b7f43ba7c0fb58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0b1472893777d013305a30dd2faba583\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\0b1472893777d013305a30dd2faba583\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\46c05a3a6f39ae4749e067cdc9507aba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\46c05a3a6f39ae4749e067cdc9507aba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\19f357b881a78189d4df5a0a1fbc725f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\prave\.gradle\caches\transforms-2\files-2.1\19f357b881a78189d4df5a0a1fbc725f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prave\Downloads\MovieUpdates-main\app\src\main\AndroidManifest.xml
